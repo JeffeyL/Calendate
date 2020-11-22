@@ -1,0 +1,26 @@
+rest, sleep, time
+
+1. Enter your age.
+  if age < 18
+  if age > 18
+2. Select your gender.
+  if female -> +1 point
+  if male -> +1 point
+  if other -> kill
+3. Enter your level of education.
+  if high school -> rest + 2
+  if university -> rest
+4. Enter 3 hobbies.
+  if exercise -> rest + 1
+  if game -> rest
+  if book -> rest
+5. What is your relationship status?\
+  if single -> time + 2
+  if taken -> time
+6. Are you an early worms or a night owls?
+  if early -> start = 7
+  if late -> start = 9
+7. How long is your preferred hours of sleep?
+  sleep = sleep + input
+8. How long is your preferred hours of rest?
+  rest = rest + input
