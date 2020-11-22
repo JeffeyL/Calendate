@@ -1,0 +1,14 @@
+{
+  "name": "auto-calendar-app",
+  "version": "1.0.0",
+  "description": "Project for Hack Western 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeffrey Luo",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^65.0.0"
+  }
+}
